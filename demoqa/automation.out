@@ -1,0 +1,103 @@
+2023-06-20 09:03:55 INFO  TestBase:29 - Chrome browser is selected
+2023-06-20 09:03:59 INFO  TestBase:49 - Browser is naviagted to selected url
+2023-06-20 09:03:59 INFO  TC001_VerifyLoginOperation:31 - verifyLoginTest test is started
+2023-06-20 09:03:59 INFO  LoginPageObjects:29 - user anme is entered
+2023-06-20 09:03:59 INFO  LoginPageObjects:31 - user password is entered
+2023-06-20 09:04:00 INFO  LoginPageObjects:33 - click on login button
+2023-06-20 09:04:00 INFO  TC001_VerifyLoginOperation:34 - verifyLoginTest test is Finished
+2023-06-20 09:04:01 INFO  TestBase:54 - Browser session is completed
+2023-06-20 09:04:31 INFO  TestBase:29 - Chrome browser is selected
+2023-06-20 09:04:35 INFO  TestBase:49 - Browser is naviagted to selected url
+2023-06-20 09:04:35 INFO  TC001_VerifyLoginOperation:31 - verifyLoginTest test is started
+2023-06-20 09:04:36 INFO  LoginPageObjects:29 - user anme is entered
+2023-06-20 09:04:36 INFO  LoginPageObjects:31 - user password is entered
+2023-06-20 09:04:36 INFO  LoginPageObjects:33 - click on login button
+2023-06-20 09:04:36 INFO  TC001_VerifyLoginOperation:34 - verifyLoginTest test is Finished
+2023-06-20 09:04:36 INFO  TestBase:54 - Browser session is completed
+2023-06-21 08:13:47 INFO  TestBase:50 - Chrome browser is selected
+2023-06-21 08:13:51 INFO  TestBase:70 - Browser is naviagted to selected url
+2023-06-21 08:13:51 INFO  TC001_VerifyLoginOperation:31 - verifyLoginTest test is started
+2023-06-21 08:13:51 INFO  LoginPageObjects:29 - user anme is entered
+2023-06-21 08:13:51 INFO  LoginPageObjects:31 - user password is entered
+2023-06-21 08:13:51 INFO  LoginPageObjects:33 - click on login button
+2023-06-21 08:13:51 INFO  TC001_VerifyLoginOperation:34 - verifyLoginTest test is Finished
+2023-06-21 08:13:52 INFO  TestBase:75 - Browser session is completed
+2023-06-21 08:14:16 INFO  TestBase:54 - firefox browser is selected
+2023-06-21 08:14:19 INFO  TestBase:70 - Browser is naviagted to selected url
+2023-06-21 08:14:19 INFO  TC001_VerifyLoginOperation:31 - verifyLoginTest test is started
+2023-06-21 08:14:19 INFO  LoginPageObjects:29 - user anme is entered
+2023-06-21 08:14:20 INFO  LoginPageObjects:31 - user password is entered
+2023-06-21 08:14:21 INFO  LoginPageObjects:33 - click on login button
+2023-06-21 08:14:21 INFO  TC001_VerifyLoginOperation:34 - verifyLoginTest test is Finished
+2023-06-21 08:14:22 INFO  TestBase:75 - Browser session is completed
+2023-06-21 08:15:17 INFO  TestBase:58 - Edge browser is selected
+2023-06-21 08:15:20 INFO  TestBase:70 - Browser is naviagted to selected url
+2023-06-21 08:15:20 INFO  TC001_VerifyLoginOperation:31 - verifyLoginTest test is started
+2023-06-21 08:15:20 INFO  LoginPageObjects:29 - user anme is entered
+2023-06-21 08:15:20 INFO  LoginPageObjects:31 - user password is entered
+2023-06-21 08:15:22 INFO  LoginPageObjects:33 - click on login button
+2023-06-21 08:15:22 INFO  TC001_VerifyLoginOperation:34 - verifyLoginTest test is Finished
+2023-06-21 08:15:22 INFO  TestBase:75 - Browser session is completed
+2023-06-21 08:20:06 INFO  TestBase:58 - Edge browser is selected
+2023-06-21 08:20:09 INFO  TestBase:70 - Browser is naviagted to selected url
+2023-06-21 08:20:09 INFO  TC002_VerifyLogoutTest:22 - verifyLoginTest test is started
+2023-06-21 08:20:10 INFO  LoginPageObjects:29 - user anme is entered
+2023-06-21 08:20:10 INFO  LoginPageObjects:31 - user password is entered
+2023-06-21 08:20:10 INFO  LoginPageObjects:33 - click on login button
+2023-06-21 08:20:10 INFO  TC002_VerifyLogoutTest:25 - verifyLoginTest test is Finished
+2023-06-21 08:20:23 INFO  TestBase:58 - Edge browser is selected
+2023-06-21 08:20:26 INFO  TestBase:70 - Browser is naviagted to selected url
+2023-06-21 08:20:26 INFO  TC001_VerifyLoginOperation:29 - verifyLoginTest test is started
+2023-06-21 08:20:26 INFO  LoginPageObjects:29 - user anme is entered
+2023-06-21 08:20:26 INFO  LoginPageObjects:31 - user password is entered
+2023-06-21 08:20:27 INFO  LoginPageObjects:33 - click on login button
+2023-06-21 08:20:27 INFO  TC001_VerifyLoginOperation:32 - verifyLoginTest test is Finished
+2023-06-21 08:20:28 INFO  TestBase:75 - Browser session is completed
+2023-06-21 08:24:28 INFO  TestBase:58 - Edge browser is selected
+2023-06-21 08:24:32 INFO  TestBase:70 - Browser is naviagted to selected url
+2023-06-21 08:24:32 INFO  TC001_VerifyLoginOperation:29 - verifyLoginTest test is started
+2023-06-21 08:24:32 INFO  LoginPageObjects:29 - user anme is entered
+2023-06-21 08:24:33 INFO  LoginPageObjects:31 - user password is entered
+2023-06-21 08:24:33 INFO  LoginPageObjects:33 - click on login button
+2023-06-21 08:24:33 INFO  TC001_VerifyLoginOperation:32 - verifyLoginTest test is Finished
+2023-06-21 08:24:33 INFO  TestBase:75 - Browser session is completed
+2023-06-21 08:24:36 INFO  TestBase:58 - Edge browser is selected
+2023-06-21 08:24:39 INFO  TestBase:70 - Browser is naviagted to selected url
+2023-06-21 08:24:39 INFO  TC002_VerifyLogoutTest:28 - verifyLoginTest test is started
+2023-06-21 08:24:39 INFO  LoginPageObjects:29 - user anme is entered
+2023-06-21 08:24:39 INFO  LoginPageObjects:31 - user password is entered
+2023-06-21 08:24:41 INFO  LoginPageObjects:33 - click on login button
+2023-06-21 08:24:41 INFO  TC002_VerifyLogoutTest:31 - verifyLoginTest test is Finished
+2023-06-21 08:24:41 INFO  TestBase:75 - Browser session is completed
+2023-06-21 08:24:44 INFO  TestBase:58 - Edge browser is selected
+2023-06-21 08:24:48 INFO  TestBase:70 - Browser is naviagted to selected url
+2023-06-21 08:24:48 INFO  TC003_VerifyCheckOutTest:27 - verifyLoginTest test is started
+2023-06-21 08:24:48 INFO  LoginPageObjects:29 - user anme is entered
+2023-06-21 08:24:48 INFO  LoginPageObjects:31 - user password is entered
+2023-06-21 08:24:48 INFO  LoginPageObjects:33 - click on login button
+2023-06-21 08:24:48 INFO  TC003_VerifyCheckOutTest:30 - verifyLoginTest test is Finished
+2023-06-21 08:24:49 INFO  TestBase:75 - Browser session is completed
+2023-06-21 08:25:57 INFO  TestBase:54 - firefox browser is selected
+2023-06-21 08:26:01 INFO  TestBase:70 - Browser is naviagted to selected url
+2023-06-21 08:26:01 INFO  TC001_VerifyLoginOperation:29 - verifyLoginTest test is started
+2023-06-21 08:26:01 INFO  LoginPageObjects:29 - user anme is entered
+2023-06-21 08:26:01 INFO  LoginPageObjects:31 - user password is entered
+2023-06-21 08:26:03 INFO  LoginPageObjects:33 - click on login button
+2023-06-21 08:26:03 INFO  TC001_VerifyLoginOperation:32 - verifyLoginTest test is Finished
+2023-06-21 08:26:04 INFO  TestBase:75 - Browser session is completed
+2023-06-21 08:26:07 INFO  TestBase:54 - firefox browser is selected
+2023-06-21 08:26:11 INFO  TestBase:70 - Browser is naviagted to selected url
+2023-06-21 08:26:11 INFO  TC002_VerifyLogoutTest:28 - verifyLoginTest test is started
+2023-06-21 08:26:11 INFO  LoginPageObjects:29 - user anme is entered
+2023-06-21 08:26:11 INFO  LoginPageObjects:31 - user password is entered
+2023-06-21 08:26:15 INFO  LoginPageObjects:33 - click on login button
+2023-06-21 08:26:15 INFO  TC002_VerifyLogoutTest:31 - verifyLoginTest test is Finished
+2023-06-21 08:26:16 INFO  TestBase:75 - Browser session is completed
+2023-06-21 08:26:19 INFO  TestBase:54 - firefox browser is selected
+2023-06-21 08:26:22 INFO  TestBase:70 - Browser is naviagted to selected url
+2023-06-21 08:26:22 INFO  TC003_VerifyCheckOutTest:27 - verifyLoginTest test is started
+2023-06-21 08:26:23 INFO  LoginPageObjects:29 - user anme is entered
+2023-06-21 08:26:23 INFO  LoginPageObjects:31 - user password is entered
+2023-06-21 08:26:26 INFO  LoginPageObjects:33 - click on login button
+2023-06-21 08:26:26 INFO  TC003_VerifyCheckOutTest:30 - verifyLoginTest test is Finished
+2023-06-21 08:26:27 INFO  TestBase:75 - Browser session is completed

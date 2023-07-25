@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation_Test">
+  <test name="EdgeBrowser_Test">
+    <classes>
+      <class name="com.demoqa.testscripts.TC001_VerifyLoginOperation"/>
+      <class name="com.demoqa.testscripts.TC002_VerifyLogoutTest"/>
+       <class name="com.demoqa.testscripts.TC003_VerifyCheckOutTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
